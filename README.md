@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Sindipsr!
+## Hi there 👋
 
-Welcome to my GitHub profile.  
-This is my personal portfolio website built using HTML, CSS, and JavaScript.
+<!--
+*sindipsr/sindipsr* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-🔗 [🌐 View My Portfolio Website](https://sindipsr.github.io/sindipsr/)
+Here are some ideas to get you started:
 
-## 📂 What’s Inside
-- index.html - Main web page
-- education.json, experience.json, projects.json - My data
-- cv.pdf - My resume
-- css/, images/, scripts.js - Supporting files
-
----
-
-Thanks for visiting!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
